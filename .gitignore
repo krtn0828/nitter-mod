@@ -1,0 +1,8 @@
+nitter
+*.html
+*.db
+/tests/__pycache__
+/tests/geckodriver.log
+/tmp
+/tools/gencss
+/public/css/style.css
